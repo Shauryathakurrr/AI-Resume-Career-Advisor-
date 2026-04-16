@@ -38,6 +38,6 @@ This project uses a local AI model (Llama3:instruct via Ollama), so internet is 
 
 ## 👨‍💻 Team Members
 
-1.Shaurya Thakur
-2.Arshit Thakur
-3.Swastik Singh
+1.Shaurya Thakur<br>
+2.Arshit Thakur<br>
+3.Swastik Singh<br>
